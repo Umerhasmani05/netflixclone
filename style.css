@@ -1,0 +1,47 @@
+.logo {
+
+    height: 39px;
+    width: 200px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+ul li {
+    list-style: none;
+}
+
+.rigth ul {
+    display: flex;
+    gap: 30px;
+}
+
+.mainclass h1 {
+    display: flex;
+
+    justify-content: center;
+    font-size: 48px;
+    color: rgb(24, 23, 23);
+    padding: 41px;
+}
+
+.mainclass p {
+    display: flex;
+    text-align: center;
+    padding: 25px;
+    font-size: 35px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.buttons button {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    background-color: aquamarine;
+}
